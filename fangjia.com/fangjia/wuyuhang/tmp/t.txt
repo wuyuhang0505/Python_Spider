@@ -1,0 +1,906 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>高级住客会所,设备豪华完善 身心舒泰坐拥绿茵乐趣,景色优,房价35万,面积82平米_银海二手房_北海房价网</title>
+<meta name="description" content="北海房价网为推荐大都金沙湾真实优质房源信息，大都金沙湾，2室2厅，82平米,35万高级住客会所,设备豪华完善 身心舒泰坐拥绿茵乐趣,景色优美,项目规划尽显优势,规划有160米的超高层,堪称北海海拔第一的建筑高度在景观设计上,拥有7.5万平方米园林,汇聚17国植物精粹,植物种类覆盖第一的东南亚艺术园林还设计10大私属主题园林,融汇美国九曲花街、法国吉维尼鲜花小镇等世界各国的经典景观精粹项目配套有145米北海最高的星空会所,1.2万平方米的北海面积最大的城市会客厅,别墅会所等三大主题泛会所,还拥有2000㎡南中国唯一无边际泳池、推杆高尔夫、休闲健身房、SPA会所、2.5万平方米时尚滨海商业群等一系列北海前所未有的成熟娱乐配套,让您在这里充分享受到国际化都市滨海休闲生活
+联系我时,请说是在赶集网上看到的,谢谢!" />
+<meta name="keywords" content="" />
+<meta name="baidu-site-verification" content="vSLmU63Wfep2RHXX" />
+<script type="text/javascript">
+var Constants = {
+wwwUrl : 'http://www.fangjia.com',
+picurl : 'http://img0.fangjia.com/stc/fs/',
+staticurl: 'http://static.fangjia.com/stc',
+ofcurl: 'http://static.fangjia.com/stc',
+environment: 'production',
+cityUrl:'http://beihai.fangjia.com',
+domain:'fangjia.com',
+root:'',
+city:'beihai', //eg: 'sh'
+cityName:'北海', //eg:'上海'
+souUrl:'http://sou.fangjia.com',
+controllerName:'house',
+supportXinfang:'false',
+supportBlock:'true'
+}
+</script><link rel="stylesheet" type="text/css" href="http://static.fangjia.com/stc/style/fangjia/v4/common.css?v=1469089504" />
+<script type="text/javascript">
+var _renderStartTime = new Date().getTime();
+var _gaq = _gaq || [];
+</script>
+<div style="display:none;">
+<script src="http://s23.cnzz.com/stat.php?id=3435268&web_id=3435268" language="JavaScript"></script>
+</div>
+<script type="text/javascript">
+try{
+var __utmData = {request_url:document.URL, gcid:'5792cb3e2aa2c6c7e845acca', referer_url: 'http://beihai.fangjia.com/ershoufang/--e-1', action_uri:'/house/show', city:'北海', now:new Date().getTime()}
+__utmData.gasm = 'region_银海-districtName_大都金沙湾-city_北海';
+var __utmGifUrl = 'http://www.fangjia.com/__utm.gif?'
+for(var d in __utmData){
+__utmGifUrl += d+'='+encodeURIComponent(__utmData[d])+'&'
+}
+document.write('<img src="'+__utmGifUrl+'" class="dp-none" />')
+}catch(e){}
+</script>
+<link rel="stylesheet" type="text/css" href="http://static.fangjia.com/stc/style/fangjia/v4/esf_detail.css?v=1464937762" />
+<link rel="stylesheet" type="text/css" href="http://static.fangjia.com/stc/style/fangjia/v4/common.css?v=1469089504" />
+</head>
+<body>
+<div id="cpcClickDiv" style="display: none;"></div>
+<script type="text/javascript" src="http://static.fangjia.com/stc/js/fangjia/fangjia.cpcclick.js?v=1337854509"></script>
+<div class="header">
+<div class="headerContent">
+<div class="left">
+<a class="logo" href="http://beihai.fangjia.com"></a>
+<div class="city">
+<span>北海</span>
+<i></i>
+<div class="selectCity cityChoice_spread dn" id="chooseCity" style="display: none;">
+<div id="allCityDiv">
+<div class="c_top">
+<div class="hot">
+<a name="bj" href="http://bj.fangjia.com/ershoufang/">北京</a>
+<a name="sh" href="http://sh.fangjia.com/ershoufang/">上海</a>
+<a name="gz" href="http://gz.fangjia.com/ershoufang/">广州</a>
+<a name="sz" href="http://sz.fangjia.com/ershoufang/">深圳</a>
+<a name="cd" href="http://cd.fangjia.com/ershoufang/">成都</a>
+</div>
+</div>
+<div class="TabList">
+<div class="titleBar">
+<ul class="wzhi">
+<li id="a_g" class="on" idex="0">ABCDEFG</li>
+<li id="h_n" idex="1">HIJKLMN</li>
+<li id="o_t" idex="2">OPQRST</li>
+<li id="u_z" idex="3">UVWXYZ</li>
+</ul>
+</div>
+<div class="tab_content" id="moreCity">
+<div class="on" index="0">
+<a name="anshan" href="http://anshan.fangjia.com/ershoufang/">鞍山</a>
+<a name="baoding" href="http://baoding.fangjia.com/ershoufang/">保定</a>
+<a name="beihai" href="http://beihai.fangjia.com/ershoufang/">北海</a>
+<a name="bj" href="http://bj.fangjia.com/ershoufang/">北京</a>
+<a name="changchun" href="http://changchun.fangjia.com/ershoufang/">长春</a>
+<a name="cs" href="http://cs.fangjia.com/ershoufang/">长沙</a>
+<a name="changzhou" href="http://changzhou.fangjia.com/ershoufang/">常州</a>
+<a name="cd" href="http://cd.fangjia.com/ershoufang/">成都</a>
+<a name="cq" href="http://cq.fangjia.com/ershoufang/">重庆</a>
+<a name="dali" href="http://dali.fangjia.com/ershoufang/">大理</a>
+<a name="dl" href="http://dl.fangjia.com/ershoufang/">大连</a>
+<a name="dandong" href="http://dandong.fangjia.com/ershoufang/">丹东</a>
+<a name="daqing" href="http://daqing.fangjia.com/ershoufang/">大庆</a>
+<a name="dongguan" href="http://dongguan.fangjia.com/ershoufang/">东莞</a>
+<a name="fs" href="http://fs.fangjia.com/ershoufang/">佛山</a>
+<a name="fz" href="http://fz.fangjia.com/ershoufang/">福州</a>
+<a name="ganzhou" href="http://ganzhou.fangjia.com/ershoufang/">赣州</a>
+<a name="gz" href="http://gz.fangjia.com/ershoufang/">广州</a>
+<a name="guilin" href="http://guilin.fangjia.com/ershoufang/">桂林</a>
+<a name="guiyang" href="http://guiyang.fangjia.com/ershoufang/">贵阳</a>
+</div>
+<div index="1" class="">
+<a name="haerbin" href="http://haerbin.fangjia.com/ershoufang/">哈尔滨</a>
+<a name="haikou" href="http://haikou.fangjia.com/ershoufang/">海口</a>
+<a name="handan" href="http://handan.fangjia.com/ershoufang/">邯郸</a>
+<a name="hz" href="http://hz.fangjia.com/ershoufang/">杭州</a>
+<a name="hefei" href="http://hefei.fangjia.com/ershoufang/">合肥</a>
+<a name="huhehaote" href="http://huhehaote.fangjia.com/ershoufang/">呼和浩特</a>
+<a name="huizhou" href="http://huizhou.fangjia.com/ershoufang/">惠州</a>
+<a name="huzhou" href="http://huzhou.fangjia.com/ershoufang/">湖州</a>
+<a name="jiangmen" href="http://jiangmen.fangjia.com/ershoufang/">江门</a>
+<a name="jiaxing" href="http://jiaxing.fangjia.com/ershoufang/">嘉兴</a>
+<a name="jilin" href="http://jilin.fangjia.com/ershoufang/">吉林</a>
+<a name="jn" href="http://jn.fangjia.com/ershoufang/">济南</a>
+<a name="jinhua" href="http://jinhua.fangjia.com/ershoufang/">金华</a>
+<a name="jiujiang" href="http://jiujiang.fangjia.com/ershoufang/">九江</a>
+<a name="kunming" href="http://kunming.fangjia.com/ershoufang/">昆明</a>
+<a name="langfang" href="http://langfang.fangjia.com/ershoufang/">廊坊</a>
+<a name="lanzhou" href="http://lanzhou.fangjia.com/ershoufang/">兰州</a>
+<a name="lyg" href="http://lyg.fangjia.com/ershoufang/">连云港</a>
+<a name="lijiang" href="http://lijiang.fangjia.com/ershoufang/">丽江</a>
+<a name="liupanshui" href="http://liupanshui.fangjia.com/ershoufang/">六盘水</a>
+<a name="liuzhou" href="http://liuzhou.fangjia.com/ershoufang/">柳州</a>
+<a name="luoyang" href="http://luoyang.fangjia.com/ershoufang/">洛阳</a>
+<a name="mas" href="http://mas.fangjia.com/ershoufang/">马鞍山</a>
+<a name="mianyang" href="http://mianyang.fangjia.com/ershoufang/">绵阳</a>
+<a name="nanchang" href="http://nanchang.fangjia.com/ershoufang/">南昌</a>
+<a name="nj" href="http://nj.fangjia.com/ershoufang/">南京</a>
+<a name="nanning" href="http://nanning.fangjia.com/ershoufang/">南宁</a>
+<a name="nantong" href="http://nantong.fangjia.com/ershoufang/">南通</a>
+<a name="nb" href="http://nb.fangjia.com/ershoufang/">宁波</a>
+</div>
+<div index="2" class="">
+<a name="panzhihua" href="http://panzhihua.fangjia.com/ershoufang/">攀枝花</a>
+<a name="putian" href="http://putian.fangjia.com/ershoufang/">莆田</a>
+<a name="qd" href="http://qd.fangjia.com/ershoufang/">青岛</a>
+<a name="qingyuan" href="http://qingyuan.fangjia.com/ershoufang/">清远</a>
+<a name="qhd" href="http://qhd.fangjia.com/ershoufang/">秦皇岛</a>
+<a name="quanzhou" href="http://quanzhou.fangjia.com/ershoufang/">泉州</a>
+<a name="quzhou" href="http://quzhou.fangjia.com/ershoufang/">衢州</a>
+<a name="sanya" href="http://sanya.fangjia.com/ershoufang/">三亚</a>
+<a name="sh" href="http://sh.fangjia.com/ershoufang/">上海</a>
+<a name="shaoxing" href="http://shaoxing.fangjia.com/ershoufang/">绍兴</a>
+<a name="sy" href="http://sy.fangjia.com/ershoufang/">沈阳</a>
+<a name="sz" href="http://sz.fangjia.com/ershoufang/">深圳</a>
+<a name="sjz" href="http://sjz.fangjia.com/ershoufang/">石家庄</a>
+<a name="suqian" href="http://suqian.fangjia.com/ershoufang/">宿迁</a>
+<a name="suz" href="http://suz.fangjia.com/ershoufang/">苏州</a>
+<a name="ty" href="http://ty.fangjia.com/ershoufang/">太原</a>
+<a name="taizhou" href="http://taizhou.fangjia.com/ershoufang/">泰州</a>
+<a name="tangshan" href="http://tangshan.fangjia.com/ershoufang/">唐山</a>
+<a name="tj" href="http://tj.fangjia.com/ershoufang/">天津</a>
+<a name="tzh" href="http://tzh.fangjia.com/ershoufang/">台州</a>
+</div>
+<div index="3" class="">
+<a name="weifang" href="http://weifang.fangjia.com/ershoufang/">潍坊</a>
+<a name="weihai" href="http://weihai.fangjia.com/ershoufang/">威海</a>
+<a name="wz" href="http://wz.fangjia.com/ershoufang/">温州</a>
+<a name="wh" href="http://wh.fangjia.com/ershoufang/">武汉</a>
+<a name="wuhu" href="http://wuhu.fangjia.com/ershoufang/">芜湖</a>
+<a name="xj" href="http://xj.fangjia.com/ershoufang/">乌鲁木齐</a>
+<a name="wx" href="http://wx.fangjia.com/ershoufang/">无锡</a>
+<a name="xm" href="http://xm.fangjia.com/ershoufang/">厦门</a>
+<a name="xa" href="http://xa.fangjia.com/ershoufang/">西安</a>
+<a name="xiangtan" href="http://xiangtan.fangjia.com/ershoufang/">湘潭</a>
+<a name="xiangyang" href="http://xiangyang.fangjia.com/ershoufang/">襄阳</a>
+<a name="xianyang" href="http://xianyang.fangjia.com/ershoufang/">咸阳</a>
+<a name="xining" href="http://xining.fangjia.com/ershoufang/">西宁</a>
+<a name="xuzhou" href="http://xuzhou.fangjia.com/ershoufang/">徐州</a>
+<a name="yanan" href="http://yanan.fangjia.com/ershoufang/">延安</a>
+<a name="yancheng" href="http://yancheng.fangjia.com/ershoufang/">盐城</a>
+<a name="yz" href="http://yz.fangjia.com/ershoufang/">扬州</a>
+<a name="yantai" href="http://yantai.fangjia.com/ershoufang/">烟台</a>
+<a name="yibin" href="http://yibin.fangjia.com/ershoufang/">宜宾</a>
+<a name="yichang" href="http://yichang.fangjia.com/ershoufang/">宜昌</a>
+<a name="yinchuan" href="http://yinchuan.fangjia.com/ershoufang/">银川</a>
+<a name="yulin" href="http://yulin.fangjia.com/ershoufang/">玉林</a>
+<a name="zhangjiajie" href="http://zhangjiajie.fangjia.com/ershoufang/">张家界</a>
+<a name="zhanjiang" href="http://zhanjiang.fangjia.com/ershoufang/">湛江</a>
+<a name="zz" href="http://zz.fangjia.com/ershoufang/">郑州</a>
+<a name="zhenjiang" href="http://zhenjiang.fangjia.com/ershoufang/">镇江</a>
+<a name="zhongshan" href="http://zhongshan.fangjia.com/ershoufang/">中山</a>
+<a name="zhuhai" href="http://zhuhai.fangjia.com/ershoufang/">珠海</a>
+<a name="zhuzhou" href="http://zhuzhou.fangjia.com/ershoufang/">株洲</a>
+<a name="zibo" href="http://zibo.fangjia.com/ershoufang/">淄博</a>
+<a name="zigong" href="http://zigong.fangjia.com/ershoufang/">自贡</a>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+</div>
+<ul class="nav">
+<li><a href="http://beihai.fangjia.com" >首页</a></li>
+<li><a href="http://beihai.fangjia.com/gujia/">房产评估</a></li>
+<li><a href="http://beihai.fangjia.com/commercial/" >商用数据</a></li>
+<li><a href="http://beihai.fangjia.com/api/" >API在线交易</a>
+</li>
+<li>
+<a href="http://beihai.fangjia.com/addressAnaly/dyManage" target="_blank">押品风控</a>
+<img src="http://img0.fangjia.com/stc/images/fangjia/v4/new.png">
+</li>
+<li><a href="http://beihai.fangjia.com/addressAnaly/yxManage" target="_blank">精准营销</a>
+<img src="http://img0.fangjia.com/stc/images/fangjia/v4/new.png">
+</li>
+<li><a href="http://beihai.fangjia.com/about/" >关于我们</a></li>
+</ul>
+<ul class="vip" id="vipId">
+<li><a href="http://beihai.fangjia.com/user/reqUserLoginPage">登录</a></li>
+<li><a style="margin:0 14px;font-size:16px;">|</a></li>
+<li><a href="http://beihai.fangjia.com/user/reqUserRegPage">注册</a></li>
+</ul>
+<ul class="vip vip2 dn" id="vipId2">
+</ul>
+</div>
+</div>
+<style>
+.vip2 a:hover {text-decoration:underline;}
+</style>
+<script>
+function getCookie(name) {
+var arr,reg=new RegExp("(^| )"+name+"=([^;]*)(;|$)");
+if(arr=document.cookie.match(reg)) {
+return unescape(arr[2]);
+} else {
+return null;
+}
+}
+function delCookie(name){
+var exp = new Date();
+exp.setTime(exp.getTime() - 1);
+var cval=getCookie(name);
+if(cval!=null)
+document.cookie= name + "="+cval+";expires="+exp.toGMTString()+";path=/;domain=fangjia.com";
+}
+function logout() {
+delCookie("login_username");
+delCookie("userId");
+delCookie("login_userId");
+window.location.reload();
+}
+//显示登录之后的用户名
+var login_username = getCookie("login_username");
+if(login_username != null){
+var vipId = document.getElementById("vipId");
+var vipId2 = document.getElementById("vipId2");
+vipId.style.display = "none";
+vipId2.style.display = "block";
+vipId2.innerHTML = "<li><a style=\"font-size:14px;\">欢迎您：&nbsp;</a><a href=\"http://user.fangjia.com/fangjiatong2/house/index\" style=\"font-size:14px;color:#007fc5;\">"+login_username+"</a></li> <li><a style=\"margin:0 14px;font-size:14px;\">|</a></li><li><a href=\"javascript:void(0)\" style=\"font-size:14px;\" onclick=\"logout()\">退出登录</a></li>";
+}
+</script>
+<ul class="menu" id="_header_channel">
+<li ><a href="http://beihai.fangjia.com/gujia/">房产评估</a></li>
+<li><a href="http://beihai.fangjia.com/diaocha/" class="">评估报告</a></li>
+<li><a href="http://beihai.fangjia.com/zoushi/" >指数趋势</a></li>
+<li>
+<a href="http://beihai.fangjia.com/ershoufang/" class="menuCurrent">二手房源</a>
+</li>
+<li>
+<a href="http://beihai.fangjia.com/zufang/">租房房源</a>
+</li>
+</ul><div class="crumb">
+<a href="http://beihai.fangjia.com">房价网</a>&nbsp;>&nbsp;<a href="http://beihai.fangjia.com/ershoufang/">北海二手房</a>&nbsp;>&nbsp;
+<a href="http://beihai.fangjia.com/ershoufang/--r-%E9%93%B6%E6%B5%B7">银海区</a>&nbsp;>&nbsp;
+<a target="_blank" href="http://beihai.fangjia.com/xiaoqu/%E9%93%B6%E6%B5%B7/%E5%A4%A7%E9%83%BD%E9%87%91%E6%B2%99%E6%B9%BE/" >大都金沙湾</a>
+&nbsp;>&nbsp;高级住客会所,设备豪华完善 身心舒泰坐拥绿茵乐趣,景色优美
+</div>
+<div class="search">
+<form action="http://beihai.fangjia.com/sellHouseSearch/list" method="GET" id="_index_form">
+<input type="hidden" name="menuType" value=""/>
+<input type="hidden" name="__s" value="1"/>
+<input type="text" class="input_city" id="_index_keyword" name="keyword" value="" autocomplete="off" maxlength="25" placeholder="请输入楼盘名或地址（支持拼音输入）">
+<input type="submit" class="searchImg" value=""></input>
+</form>
+</div>
+<div class="main">
+<div class="c0 mb20 bor detnew">
+<div class="c0 bor_inc">
+<div class="por detnewtit" id="houseTitle">
+<h1 name="hl_area">高级住客会所,设备豪华完善 身心舒泰坐拥绿茵乐趣,景色优</h1><b class="bg_detnew poa titline"></b>
+<div class="dFrom"><a ref="http://beihai.ganji.com/fang5/1704526826x.htm" target="_blank">此信息来自赶集网 </a></div>
+</div>
+<div class="fl bk1" id="houseInfo">
+<div class="fl detnewleft1">
+<p class="pimg"><a class="bg_detail" href="#pic"><img id="housePic" src="http://img0.fangjia.com/stc/fs/8CD872EACCEE73D78D581C49358F51D86B54857E4DBA6836E12ECD8DAE4480A540A02802200B8902C8FAF3CA6DA4E01BD22E62F3780B5C5642B51641AAE72F3E07CB000BF3FD8A612577E3C18BB64FC693182F8DAA428D5608BE85B608BB75FE76AE86B09792E8C1EDB87458CACA716145831CFC84D3AD1BD0844E9B4B28C53C" /></a></p>
+<p class="small">
+<img src="http://img0.fangjia.com/stc/fs/8CD872EACCEE73D78D581C49358F51D86B54857E4DBA6836E12ECD8DAE4480A540A02802200B8902C8FAF3CA6DA4E01BD22E62F3780B5C5642B51641AAE72F3E07CB000BF3FD8A612577E3C18BB64FC693182F8DAA428D5608BE85B608BB75FE76AE86B09792E8C1EDB87458CACA7161FC03550FEC9EEF2C434C841E0B82D711" class="s_pic s_pic_hover" orgpic="http://img0.fangjia.com/stc/fs/8CD872EACCEE73D78D581C49358F51D86B54857E4DBA6836E12ECD8DAE4480A540A02802200B8902C8FAF3CA6DA4E01BD22E62F3780B5C5642B51641AAE72F3E07CB000BF3FD8A612577E3C18BB64FC693182F8DAA428D5608BE85B608BB75FE76AE86B09792E8C1EDB87458CACA716145831CFC84D3AD1BD0844E9B4B28C53C"/>
+<img src="http://img0.fangjia.com/stc/fs/8CD872EACCEE73D78D581C49358F51D86B54857E4DBA6836E12ECD8DAE4480A540A02802200B8902C8FAF3CA6DA4E01BA169D42FE21F9CB12B365EACE0A0902707CB000BF3FD8A61C0C227E12A30F290810CAFE1ABD52FB49AA34E17695BB7FDDDC6AEE5F553431FAB13F8D6D60843BA289C2873EB4A6BFA0C391A5FA13B434B" class="s_pic" orgpic="http://img0.fangjia.com/stc/fs/8CD872EACCEE73D78D581C49358F51D86B54857E4DBA6836E12ECD8DAE4480A540A02802200B8902C8FAF3CA6DA4E01BA169D42FE21F9CB12B365EACE0A0902707CB000BF3FD8A61C0C227E12A30F290810CAFE1ABD52FB49AA34E17695BB7FDDDC6AEE5F553431FAB13F8D6D60843BA5A033816AF1D86580C391A5FA13B434B"/>
+<img src="http://img0.fangjia.com/stc/fs/8CD872EACCEE73D78D581C49358F51D86B54857E4DBA6836E12ECD8DAE4480A540A02802200B8902565D4BD406BC9F76764DC038D41416AD9489AE2E1A99ADF86FEF0F6650016703489AFC482511A784967B522582C069BED1C473AD131C4F3A76AE86B09792E8C1EDB87458CACA716143B0D7036C9085C6D0844E9B4B28C53C" class="s_pic" orgpic="http://img0.fangjia.com/stc/fs/8CD872EACCEE73D78D581C49358F51D86B54857E4DBA6836E12ECD8DAE4480A540A02802200B8902565D4BD406BC9F76764DC038D41416AD9489AE2E1A99ADF86FEF0F6650016703489AFC482511A784967B522582C069BED1C473AD131C4F3A76AE86B09792E8C1EDB87458CACA716145831CFC84D3AD1BD0844E9B4B28C53C"/>
+<img src="http://img0.fangjia.com/stc/fs/8CD872EACCEE73D78D581C49358F51D86B54857E4DBA6836E12ECD8DAE4480A540A02802200B8902565D4BD406BC9F76764DC038D41416ADFACBD437366E6FDB6FEF0F6650016703AB20716D1AAC88FA26A833EF9586A8475613622562FFA5DB76AE86B09792E8C1EDB87458CACA716143B0D7036C9085C6D0844E9B4B28C53C" class="s_pic" orgpic="http://img0.fangjia.com/stc/fs/8CD872EACCEE73D78D581C49358F51D86B54857E4DBA6836E12ECD8DAE4480A540A02802200B8902565D4BD406BC9F76764DC038D41416ADFACBD437366E6FDB6FEF0F6650016703AB20716D1AAC88FA26A833EF9586A8475613622562FFA5DB76AE86B09792E8C1EDB87458CACA716145831CFC84D3AD1BD0844E9B4B28C53C"/>
+</p>
+<a class="dib icon text ablue" style="margin-top: 15px;" href="#pic">查看全部6张图片</a>
+</div>
+<div name="hl_area2" class="fl por detnewleft2">
+<ol>
+<li class="clearfix">
+<p class="p0">售价：<strong>35</strong>万 <a class="spgujia" href="javascript:;" id="_goGujia">快速估价</a></p>
+</li>
+<li class="clearfix">
+<p>单价：4220元/平米</p>
+</li>
+<li class="clearfix">
+<p>房型：2室2厅1卫</p>
+<p>面积：82平米</p>
+</li>
+<li class="clearfix">
+<p>朝向：南北</p>
+<p>建造年代：暂无 </p>
+</li>
+<li class="clearfix">
+<p>楼层：21/32 </p>
+<p>装修：精装修</p>
+</li>
+</ol>
+<ol>
+<li class="clearfix allline">
+<p>小区：
+大都金沙湾
+</p>
+</li>
+<li class="clearfix allline">
+<p>地址：
+金海岸大道66号
+</p>
+</li>
+</ol>
+</div><!--detnewleft2 结束-->
+</div><!-- end bk1 -->
+<div class="pgu pad dn" id="evaluationDiv">
+<form action="http://beihai.fangjia.com/gujia/" target="_blank" id="evaluationForm" onsubmit="return parseInt(document.getElementById('evaluationArea').value)&gt;0;">
+<input type="hidden" name="__from" value="sell_detail" />
+<p><span class="n_wid">小区：</span><input name="evaluation.districtName" class="name" type="text" value="大都金沙湾"/></p>
+<p><span class="n_wid">面积：</span><input id="evaluationArea" name="evaluation.area" type="text" value="82"/> 平米</p>
+<p><span class="n_wid">楼层：第 </span><input name="evaluation.floor" type="text" value="21"/> 层/共 <input name="evaluation.height" type="text" value="32"/> 层</p>
+<p><input id="evaluationSubmit" type="submit" class="bunt" value=""/></p>
+</form>
+</div>
+<div class="bk4">
+<span class="k1 sp0">联 系 人：<font style="font-size:14px;">周彪</font></span>
+<span class="k1 sp1">咨询电话：<b style="font-size:16px;">186 0779 6459</b></span>
+</div>
+</div><!-- end bor_inc -->
+</div><!-- end detnew -->
+<div class="c0 mb20 det_jieshao">
+<div class="por tdn_list rep det_jieshao_menu" id="__house_detail_tab">
+<div class="fr" style="line-height: 30px;padding-right: 16px">
+2016-07-22 更新
+</div>
+<div class="poa det_jieshao_menu_inc fl">
+<a href="#hdesc" class="rep cur">房源介绍</a>
+<a href="#pic" class="icon nocur">房源照片</a>
+</div>
+</div><!--end det_jieshao_menu-->
+<div class="det_jieshao_box">
+<div name="hl_area" id="hdesc">
+<div class="text">
+<p><span style="color: rgb(113, 113, 113); line-height: 28.************7px; white-space: normal;"><font size="3">项目规划尽显优势,规划有160米的超高层,堪称北海海拔第一的建筑高度在景观设计上,拥有7.5万平方米园林,汇聚17国植物精粹,植物种类覆盖第一的东南亚艺术园林还设计10大私属主题园林,融汇美国九曲花街、法国吉维尼鲜花小镇等世界各国的经典景观精粹项目配套有145米北海最高的星空会所,1.2万平方米的北海面积最大的城市会客厅,别墅会所等三大主题泛会所,还拥有2000㎡南中国唯一无边际泳池、推杆高尔夫、休闲健身房、SPA会所、2.5万平方米时尚滨海商业群等一系列北海前所未有的成熟娱乐配套,让您在这里充分享受到国际化都市滨海休闲生活</font></span></p>
+<p class="clear">联系我时,请说是在赶集网上看到的,谢谢!</p>
+</div>
+</div>
+<div class="c"></div>
+<p class="pa10 tr fcgray">来源:www.ganji.com</p>
+<div class="fb14 bg_detail fypic" id="pic"> 房源照片</div>
+<p class="fypiclist tc">
+<span>
+<img name="lazy" src="http://static.fangjia.com/stc/images/common/no-b.gif" data-original="http://img0.fangjia.com/stc/fs/8CD872EACCEE73D78D581C49358F51D86B54857E4DBA6836E12ECD8DAE4480A540A02802200B8902C8FAF3CA6DA4E01BA169D42FE21F9CB12B365EACE0A0902707CB000BF3FD8A61C0C227E12A30F290810CAFE1ABD52FB49AA34E17695BB7FDDDC6AEE5F553431FAB13F8D6D60843BA5A033816AF1D86580C391A5FA13B434B" style="max-width: 850px;"/>
+</span> <br />
+<span>
+<img name="lazy" src="http://static.fangjia.com/stc/images/common/no-b.gif" data-original="http://img0.fangjia.com/stc/fs/8CD872EACCEE73D78D581C49358F51D86B54857E4DBA6836E12ECD8DAE4480A540A02802200B8902565D4BD406BC9F76764DC038D41416AD9489AE2E1A99ADF86FEF0F6650016703489AFC482511A784967B522582C069BED1C473AD131C4F3A76AE86B09792E8C1EDB87458CACA716145831CFC84D3AD1BD0844E9B4B28C53C" style="max-width: 850px;"/>
+</span> <br />
+<span>
+<img name="lazy" src="http://static.fangjia.com/stc/images/common/no-b.gif" data-original="http://img0.fangjia.com/stc/fs/8CD872EACCEE73D78D581C49358F51D86B54857E4DBA6836E12ECD8DAE4480A540A02802200B8902565D4BD406BC9F76764DC038D41416ADFACBD437366E6FDB6FEF0F6650016703AB20716D1AAC88FA26A833EF9586A8475613622562FFA5DB76AE86B09792E8C1EDB87458CACA716145831CFC84D3AD1BD0844E9B4B28C53C" style="max-width: 850px;"/>
+</span> <br />
+<span>
+<img name="lazy" src="http://static.fangjia.com/stc/images/common/no-b.gif" data-original="http://img0.fangjia.com/stc/fs/8CD872EACCEE73D78D581C49358F51D86B54857E4DBA6836E12ECD8DAE4480A540A02802200B8902C8FAF3CA6DA4E01BD22E62F3780B5C5642B51641AAE72F3E07CB000BF3FD8A612577E3C18BB64FC693182F8DAA428D5608BE85B608BB75FE76AE86B09792E8C1EDB87458CACA716145831CFC84D3AD1BD0844E9B4B28C53C" style="max-width: 850px;"/>
+</span> <br />
+<span>
+<img name="lazy" src="http://static.fangjia.com/stc/images/common/no-b.gif" data-original="http://img0.fangjia.com/stc/fs/8CD872EACCEE73D78D581C49358F51D86B54857E4DBA6836E12ECD8DAE4480A540A02802200B8902C8FAF3CA6DA4E01BA169D42FE21F9CB1E19D33CFC8BBA544E369DCC0749C357C8E4AEE8F3282494405B6FB16012BF820D2B717FCECA5D77976AE86B09792E8C1EDB87458CACA716145831CFC84D3AD1BD0844E9B4B28C53C" style="max-width: 850px;"/>
+</span> <br />
+<span>
+<img name="lazy" src="http://static.fangjia.com/stc/images/common/no-b.gif" data-original="http://img0.fangjia.com/stc/fs/8CD872EACCEE73D78D581C49358F51D86B54857E4DBA6836E12ECD8DAE4480A540A02802200B8902C8FAF3CA6DA4E01BA169D42FE21F9CB167104ABA48FA5D7C07CB000BF3FD8A61117A0B4D1A99A8D714FFDEDF8440C757538C7A16B6C361E276AE86B09792E8C1EDB87458CACA716145831CFC84D3AD1BD0844E9B4B28C53C" style="max-width: 850px;"/>
+</span> <br />
+</p>
+</div><!-- end det_jieshao_box -->
+</div>
+<div class="c"></div>
+</div>
+<input id="shle_districtName" value="大都金沙湾" type="hidden"/>
+<input id="shle_city" value="北海" type="hidden"/>
+<input id="shle_region" value="银海" type="hidden"/>
+<input id="relateId" value="563506c2e4b0cad5cc625530" type="hidden"/>
+</div><!--end main-->
+</div><!--end mainwrap-->
+<div class="footer">
+<ul class="contact">
+<li><a href="http://beihai.fangjia.com/about">关于我们</a></li>
+<li><a>|</a></li>
+<li><a href="http://beihai.fangjia.com/about/contact">联系我们</a></li>
+<li><a>|</a></li>
+<li><a href="http://beihai.fangjia.com/about/deal">用户协议</a></li>
+<li><a>|</a></li>
+<li><a href="http://beihai.fangjia.com/about/copyright">版权声明</a></li>
+<li><a>|</a></li>
+<li><a href="http://beihai.fangjia.com/about/announce">免责声明</a></li>
+</ul>
+<div class="info">
+<a ref="nofollow" href="http://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&entyId=20120426105658696">
+<div class="infoLeft"></div></a>
+<div class="infoRight">
+<span>前台总机：021-62393138</span><br>
+<span>客服热线：021-62392522</span><br>
+<a href="http://beihai.fangjia.com/ershoufang/">上海找房子</a><span>，</span><a href="http://beihai.fangjia.com/gujia/">估房价</a><span>，百度&nbsp;</span><a href="http://www.baidu.com/s?wd=%B7%BF%BC%DB%CD%F8">房价网</a><br>
+<span>电子邮箱：service@fangjia.com</span>
+</div>
+<div class="wx"></div>
+</div>
+<p>房价网（www.fangjia.com）</p>
+<p style="margin-top:0;">&copy&nbsp;2006-2020&nbsp;估家网络&nbsp;版权所有&nbsp;<a href="http://www.shcaeg.gov.cn/main.action" target="_blank">沪B2-20130098</a></p>
+</div>
+<script type="text/javascript">
+var Constants = {
+wwwUrl : 'http://www.fangjia.com',
+picurl : 'http://img0.fangjia.com/stc/fs/',
+staticurl: 'http://static.fangjia.com/stc',
+ofcurl: 'http://static.fangjia.com/stc',
+environment: 'production',
+cityUrl:'http://beihai.fangjia.com',
+domain:'fangjia.com',
+root:'',
+city:'beihai', //eg: 'sh'
+cityName:'北海', //eg:'上海'
+souUrl:'http://sou.fangjia.com',
+controllerName:'house',
+supportXinfang:'false',
+supportBlock:'true'
+}
+</script><script type="text/javascript" src="http://static.fangjia.com/stc/js/fangjia.js?v=1465725893"></script>
+<script type="text/javascript">
+//header 下拉框自动完成
+if (('' != 'house' && 'index' != 'show')&&('' != 'house' && 'indexMain' != 'show')&&('evaluation' != 'show')) { //城市首页
+var ksub = function(value){
+if(typeof(value.cityCode) == "string") {
+var actionUrl = $($$('_index_keyword').form).attr("action");
+actionUrl = actionUrl.substring(actionUrl.indexOf("."));
+actionUrl = "http://" + value.cityCode + actionUrl;
+$($$('_index_keyword').form).attr('action', actionUrl);
+var requestUrl = actionUrl + "?keyword=" + $("#_index_keyword").val();
+var position = parseInt($("ul .k1_up").attr("name")) + 1;
+var url = Constants.cityUrl + "/click/autoClick?t=" + new Date().getTime() + "&position=" + position + "&channel=auto&pageNumber=1&requestUrl=" + encodeURI(requestUrl) +"&refererUrl=" + encodeURI(document.URL);
+$.get(url);
+}else {
+if(value.value == to_gujia) {
+$($$('_index_keyword').form).attr('action', gujia_url);
+}
+if(value.value == to_sell) {
+$($$('_index_keyword').form).attr('action', sell_url);
+}
+if(value.value == to_rent) {
+$($$('_index_keyword').form).attr('action', rent_url);
+}
+if(value.value == to_news) {
+$($$('_index_keyword').form).attr('action', news_url);
+}
+if(value.value == to_xinfang && 'true' == Constants.supportXinfang) {
+$($$('_index_keyword').form).attr('action', xinfang_url);
+}
+if(value.value == to_xiaoqu) {
+$($$('_index_keyword').form).attr('action', xiaoqu_url);
+}
+if($('#_index_keyword').val().trim()==''){
+$('#_index_keyword').val('');
+//return false;
+}
+var requestUrl = encodeURI($($$('_index_keyword').form).attr('action') + "?keyword=" + $("#_index_keyword").val());
+var url = Constants.cityUrl + "/click/autoClick?t=" + new Date().getTime() + "&position=0&channel=auto2&pageNumber=1&requestUrl=" + requestUrl +"&refererUrl=" + encodeURI(document.URL);
+$.get(url);
+}
+return true;
+};
+var autoUrl = 'http://beihai.fangjia.com/autoComplete/suggest?cat=district';
+souAutoComplete({id:'_index_keyword',autoCompleteUrl:autoUrl,submitOnSelectCallback:ksub, showDesc:true});
+}
+var hideTimer = 0;
+$('#__a_city_select, #__city_select').hover(function(){
+clearTimeout(hideTimer);
+$('#__city_select').show();
+}, function(){
+hideTimer = setTimeout(function(){
+$('#__city_select').hide();
+}, 500);
+});
+var hideTimer1 = 0;
+$('#__a_toolbox, #__toolbox').hover(function(){
+clearTimeout(hideTimer1);
+$('#__toolbox').show();
+$('#__a_toolbox').addClass('hover');
+}, function(){
+hideTimer1 = setTimeout(function(){
+$('#__toolbox').hide();
+$('#__a_toolbox').removeClass('hover');
+}, 500);
+});
+$(".TranMenuDrop").hover(
+function(){
+$(this).find("a.more").show();
+},function(){
+$(this).find("a.more").hide();
+}
+);
+</script>
+<script type="text/javascript" src="http://static.fangjia.com/stc/js/fangjia/v4/main.js?v=1467008504"></script>
+<div id="fjtAjaxLogin" style="display:none;">
+<div class="black_bg"></div>
+<div class="complaint fjtLogin">
+<div class="ajax_login">
+<div class="title">举报房源<a href="javascript:;"></a></div>
+<div id="__div_al_login">
+<input type="hidden" id="__house_id" name="houseId"/>
+<ul class="form" style="line-height: 30px;">
+<input type="hidden" name="result" id="result"/>
+<span id="resultInfo" class="error visibi"></span>
+<li class="autoLogin" style="padding-left: 0;">
+<input type="checkbox" name="report_result" class="checkbox" value="房源不存在或已售"/><label for="__al_login_auto">房源不存在或已售</label>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="checkbox" name="report_result" class="checkbox" value="价格不真实"/><label for="__al_login_auto">价格不真实</label>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="checkbox" name="report_result" class="checkbox" value="非法房源"/><label for="__al_login_auto">非法房源</label>
+</li>
+<li><textarea cols="50" rows="4" name="content" id="content">请输您举报该房源的原因</textarea></li>
+<li>
+<a class="gubao" id="__a_doReportHouse" >立即举报</a>
+</li>
+</ul>
+</div>
+<div id="successDiv" class="dn" >
+<div class="success">举报已成功！我们将在24小时内进行处理！</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript" src="http://static.fangjia.com/stc/js/jquery-ui-1.10.3.custom.min.js?v=1372661399"></script>
+<script type="text/javascript" src="http://static.fangjia.com/stc/js/jquery.form.js?v=1366768443"></script>
+<script type="text/javascript" src="http://static.fangjia.com/stc/js/jquery.lazyload.min.js?v=1393481898"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+souAutoComplete({
+id: '_index_keyword', autoCompleteUrl: Constants.cityUrl + '/autoComplete/suggest?cat=district',
+submitOnSelect: true,
+selectHide: true, showRegion: true, additionalItem: false, showDesc: true,
+});
+$(document).click(function(){
+$(".jqac-menu").hide()
+})
+$("#_index_keyword").bind("click", function(e){
+if($("#_index_keyword").val()!=undefined && $("#_index_keyword").val().length>0) {
+$("#_index_keyword").trigger("keyup");
+$(".jqac-menu").show();
+e.stopPropagation();
+}
+});
+$("img[name='lazy']").lazyload({
+effect : "fadeIn",
+threshold: 100
+});
+$("#_goGujia").click(function(){
+$("#evaluationForm").submit();
+});
+// $("#_jubao").append('<span class="k1 sp2"><a id="reportHouse" class="ablue" href="#">举报该房源</a><span id="reportHouse2" class="color_hui" href="#">该房源已举报</span></span>');
+var reportHouses = CookieUtil.getCookie("__report_house");
+if(reportHouses){
+var houseIds = $("#relateId").val();
+if(reportHouses.indexOf(houseIds)!=-1){
+$("#reportHouse2").show();
+$("#reportHouse").hide();
+}
+}
+jQuery.ajax({
+type: 'GET',
+url: Constants.cityUrl +'/house/find400',
+data: encodeURI("houseId=563506c2e4b0cad5cc625530"),
+dataType: 'json',
+timeout: 100000,
+success: function(model) {
+if (null == model) {
+return;
+}
+if (model.phone400 && '' != model.phone400) {
+if (model.bigCode && '' != model.bigCode && model.extCode && '' != model.extCode) {
+$("#__house_phone").html("<em class=\"m_left\">" + model.bigCode + "</em>转<b>" + model.extCode + "</b>");
+} else {
+$("#__house_phone").html("<em class=\"m_left\">" + model.phone400 + "</em>");
+}
+} else if (model.mobile && '' != model.mobile) {
+$("#__house_phone").html("<em class=\"m_left\">" + model.mobile + "</em>");
+} else {
+$("#__house_phone").html("<em class=\"m_left\">暂无信息</em>");
+}
+},
+error : function() {
+}
+});
+var orgTop = $("#__house_detail_tab").offset().top;
+$(window).scroll(function(){
+var scrollTop = $(document).scrollTop();
+if (scrollTop >= orgTop) {
+$("#__house_detail_tab").css({position:'fixed',top:'0px',width:'1198px',zIndex:999999});
+if ($.browser.msie && $.browser.version == "6.0") {
+$("html").css({backgroundImage:'url(about:blank)',backgroundAttachment:'fixed'});
+$("#__house_detail_tab").css({position:'absolute',bottom:'auto',top:scrollTop})
+}
+} else {
+$("#__house_detail_tab").css({position:'relative',top:'',width:''});
+}
+});
+$("#__house_detail_tab a").click(function(){
+$("#__house_detail_tab a").attr('class', 'icon nocur');
+$(this).attr('class', 'rep cur');
+var scrollTop = $(document).scrollTop();
+$(document).scrollTop($($(this).attr('href')).offset().top-(scrollTop >= orgTop?35:70));
+return false;
+})
+$('.s_pic').hover(function(){
+$('.s_pic').removeClass('s_pic_hover')
+$(this).addClass('s_pic_hover')
+$('#housePic').attr('src', $(this).attr('orgpic'))
+}, function(){
+})
+$('#evaluationDiv').hover(function(){
+$(this).css('color' ,'#444');
+$(this).find('input').css('color' ,'#444');
+$(this).find('input[type=submit]').css('opacity', 1);
+}, function(){
+$(this).css('color' ,'#a0a0a0');
+$(this).find('input').css('color' ,'#a0a0a0');
+$(this).find('input[type=submit]').css('opacity', 0.6);
+})
+var elementClick = new ElementClick();
+elementClick.clickLog("sell_eva", "#evaluationSubmit", '/house/show');
+var pageClick = new PageClick();
+$("#recommendHouse").load("http://beihai.fangjia.com/recommend/houseRecommend?region=%E9%93%B6%E6%B5%B7&districtName=%E5%A4%A7%E9%83%BD%E9%87%91%E6%B2%99%E6%B9%BE&area=82&keyword=&houseId=563506c2e4b0cad5cc625530&totalPrice=346000", function(){
+pageClick.init('__right_recommend', true);
+pageClick.click( {
+_area_id : '__right_recommend',
+channel : 'sell_detail_recommend',
+pageNumber : 0
+});
+$("[name='hl_area'], [name='hl_area2'] ol").textSearch("");
+if($('#recommendHouse').height()>20){
+$('#recommendHouseTab').show();
+}else{
+$('#recommendHouseTab').remove();
+}
+});
+pageClick.init('__detail_districtStat', true);
+pageClick.click( {
+_area_id : '__detail_districtStat',
+channel : 'sell_detail_districtStat',
+pageNumber : 0
+});
+$("#trample").click(function evaluateAnswerNew(){
+$.ajax({
+type : "POST",
+url : Constants.cityUrl +'/userFeeling/userTip',
+data : "cityName=" + $("#shle_city").val() + "&relateId=" + $("#relateId").val()
++ "&category=sell&type=cai&value=" + 1,
+success : function(data) {
+data = eval("(" + data + ")");
+var msg = data.result;
+if(msg){
+var num=$("#notSolvedNum2006657472").html();
+$("#notSolvedNum2006657472").html(num *1+1);
+}else{
+$("#solvedTips2006657471").show();
+}
+}
+});
+});
+$("#tip").click(function evaluateAnswerNew(){
+$.ajax({
+type : "POST",
+url : Constants.cityUrl +'/userFeeling/userTip',
+data : "cityName=" + $("#shle_city").val() + "&relateId=" + $("#relateId").val()
++ "&category=sell&type=ding&value=" + 1,
+success : function(data) {
+data = eval("(" + data + ")");
+var msg = data.result;
+if(msg ){
+var num=$("#solvedNum2006657471").html();
+$("#solvedNum2006657471").html(num *1+1);
+}else{
+$("#solvedTips2006657471").show();
+}
+}
+});
+});
+var shle_city = jQuery("#shle_city").val();
+var shle_region = jQuery("#shle_region").val();
+var shle_districtName = jQuery("#shle_districtName").val();
+$('#districtTrend').load(encodeURI('http://beihai.fangjia.com/trend/trendChart?&defaultCityName=北海&districtName=大都金沙湾&region=银海&chartWidth=518&chartHeight=219'));
+// 记录房源浏览记录
+var queryData = "type=sell&houseId=563506c2e4b0cad5cc625530&region=银海&districtName=大都金沙湾&houseArea=82&housePrice=346000&room=2&hall=2&url=" + location.href;
+jQuery.ajax({
+type: 'GET',
+url: Constants.cityUrl+'/snapData/saveHouseView',
+data: encodeURI(queryData),
+dataType: 'json',
+//timeout: 100000,
+success: function(model) {
+},
+error : function() {
+}
+});
+$(".detnewtit .dFrom a").click(function(){
+window.open($(this).attr('ref'), "_blank");
+});
+$("#reportHouse").click(function(){
+$("#__div_al_regist").show();
+$("#fjtAjaxLogin").show();
+var houseId = $("#relateId").val();
+$("#__house_id").val(houseId)
+});
+$("#__a_doReportHouse").click(function(){
+var houseId = $("#__house_id").val()
+var content = $("#content").val();
+var mobile = "";
+// var mobile = $("#mobile").val();//去掉对手机的验证
+// var mobile_flag = false;
+var result_flag = false;
+result_flag = checkResult();
+// if(mobile==''){
+// mobile_flag = false;
+// $("#mobileInfo").show();
+// $("#mobileInfo").text('请输入您的手机号');
+// }else{
+// mobile_flag = isMobel(mobile);
+// if(!mobile_flag){
+// mobile_flag = false;
+// $("#mobileInfo").show();
+// $("#mobileInfo").text('请输入正确的手机号');
+// }else{
+// $("#mobileInfo").hide();
+// mobile_flag = true;
+// }
+// }
+if(result_flag){
+var reportHouses = CookieUtil.getCookie("__report_house");
+if(content == "请输您举报该房源的原因"){
+content = "";
+}
+if(reportHouses){
+if(reportHouses.indexOf(houseId)==-1){
+var newreportHouses = reportHouses + "#"+ houseId ;
+saveReportHouse(houseId, newreportHouses, content, mobile);
+}
+}else{
+saveReportHouse(houseId, null, content, mobile);
+}
+}
+});
+function saveReportHouse(houseId, histroyHouse, content, mobile){
+var result = $("#result").val();
+jQuery.ajax({
+type: 'GET',
+url: Constants.cityUrl +'/house/saveReportHouse',
+data: encodeURI("houseId="+houseId+"&content="+content+"&mobile="+mobile+"&result="+result),
+dataType: 'json',
+timeout: 100000,
+success: function(model) {
+$("#__div_al_login").hide();
+$("#successDiv").show();
+if(histroyHouse){
+CookieUtil.setCookie("__report_house", histroyHouse, {domain: 'fangjia.com', path: '/', duration:365});
+}else{
+CookieUtil.setCookie("__report_house", houseId, {domain: 'fangjia.com', path: '/', duration:365});
+}
+$("#reportHouse2").show();
+$("#reportHouse").hide();
+},
+error : function() {
+}
+});
+}
+// 价格纠错
+$("#__housePrice").slider({
+value: 4220,
+min: 2100,
+max: 6300,
+step: 100,
+slide: function( event, ui ) {
+// 左侧条纹样式
+$("#__housePrice .ui-slider-range").css("width", $("#__housePrice .ui-slider-handle").css("left"));
+$("#__jiucuo_price").val(ui.value);
+},
+create: function(event, ui) {
+// 添加左侧条纹
+var range = $("<div class=\"ui-slider-range\"></div>");
+range.css("width", $("#__housePrice .ui-slider-handle").css("left"));
+$("#__housePrice").append(range);
+},
+stop: function(event, ui) {
+// 左侧条纹样式（用以确保拖动结束后样式正确）
+$("#__housePrice .ui-slider-range").css("width", $("#__housePrice .ui-slider-handle").css("left"));
+$("#__jiucuo_price").val(ui.value);
+}
+});
+$("#__jiucuo_go").click(function(){
+$('#__jiucuo_form')[0].reset();
+$('#__jiucuo_d0').show();
+$('#__jiucuo_d1').hide();
+$("#__jiucuo_popup").show();
+});
+$("#__jiucuo_popup .close, #__jiucuo_close").click(function(){
+$("#__jiucuo_popup").hide();
+});
+$("#__jiucuo_submit").click(function(){
+var options = {
+url: 'http://beihai.fangjia.com/priceJiucuo/save?t=' + new Date().getTime(),
+dataType: 'json',
+async: false,
+success: function(model){
+if ("OK" == model.result) {
+$('#__jiucuo_d0').hide();
+$('#__jiucuo_d1').show();
+}
+}
+};
+$('#__jiucuo_form').ajaxSubmit(options);
+});
+});
+function isMobel(value)
+{
+if(/^13\d{9}$/g.test(value)||(/^15[0-35-9]\d{8}$/g.test(value))||
+(/^18[05-9]\d{8}$/g.test(value))){
+return true;
+}else{
+return false;
+}
+}
+function checkResult(){
+var flag = false;
+var result = "";
+$("input:checkbox").each(function() {
+if($(this).attr("checked")!=undefined){
+flag = true;
+if(result!=""){
+result = result +","+ $(this).val();
+}else{
+result = $(this).val();
+}
+}
+});
+if(flag){
+$("#result").val(result);
+$("#resultInfo").addClass("visibi");
+return flag;
+}else{
+var content = $("#content").val();
+if(content==''||content=='请输您举报该房源的原因'){
+$("#resultInfo").removeClass("visibi");
+$("#resultInfo").text('请填写举报原因');
+return flag;
+}else{
+flag = true;
+$("#resultInfo").addClass("visibi");
+return flag;
+}
+}
+}
+function ddtClick(url){
+if(typeof(_gaq)!='undefined') {
+_gaq.push(['_trackEvent', 'map_ddt', 'Click', '大都金沙湾']);
+}
+//cpcOpenWindow(url);
+window.open(url, "_blank");
+}
+$("#content").focus(function(){
+$("#content").val('');
+});
+$(".title a").click(function(){
+$("#fjtAjaxLogin").hide();
+});
+$(".sample").click(function(){
+var houseId = $("#houseId").val();
+if(houseId!==""){
+window.open(Constants.cityUrl+"/reportDetail/sample?houseId="+houseId+"&type="+$(this).attr("data-type"));
+}
+});
+</script>
+<div style="display:none;">
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F2fa21dc14e831807e762bbda8b121e62' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+if (Math.floor(Math.random() * 10) == 1 ){
+var _renderTime = Math.floor((new Date().getTime() - _renderStartTime)/100)*100;
+if(_renderTime > 100000){
+_renderTime = Math.floor(_renderTime / 10000) * 10000;
+}
+_gaq.push(['_trackEvent', 'RenderTime', '/house/show', ''+_renderTime]);
+}
+</script>
+</div>
+</body>
+</html>
